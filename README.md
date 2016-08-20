@@ -1,4 +1,6 @@
 # NhfUIColorUnit
+<h2>介绍</h2>
+<p>用于常用颜色设置</p>
 <h2>安装</h2>
 <ul>
 <li>pod 'NhfUIColorUnit'</li>
