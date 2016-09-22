@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "NhfUIColorUnit"
-  s.version          = "1.0.1"
+  s.version          = "1.0.2"
   s.summary          = "用于常用颜色设置"
   s.homepage         = "https://github.com/nhfc99/NhfUIColorUnit"  
   s.license          = 'MIT'
