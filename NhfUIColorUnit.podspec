@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "NHFUIImage"
+  s.name             = "NhfUIColorUnit"
   s.version          = "1.0.1"
   s.summary          = "用于常用颜色设置"
   s.homepage         = "https://github.com/nhfc99/NhfUIColorUnit"  
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   # s.osx.deployment_target = '10.7'
   s.requires_arc = true
-  s.source_files = 'UIImage+Unit/*.{h,m}'  
+  s.source_files = 'UIColor+Unit/*.{h,m}'  
   s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'
 
 end
